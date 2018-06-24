@@ -1,0 +1,18 @@
+table {
+    margin: auto;
+    float: left;
+}
+
+div.icon{
+    margin: auto;
+    float: right;
+}
+img {
+    width: 250px;
+    height: 300px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
