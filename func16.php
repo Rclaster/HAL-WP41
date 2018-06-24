@@ -52,7 +52,7 @@
     }
 
     /**
-     * 　引数
+     * 　引数の中身を昇順んいソートする関数
      * @param $ary 数値を格納している配列
      * @return array 引数の配列を昇順でソートした配列を返す
      */
@@ -75,9 +75,9 @@
     }
 
     /**
-     * 　引数
-     * @param $twoAry
-     * @param $num
+     * 　引数のKeyより配列をソートする関数
+     * @param $twoAry 二次元配列
+     * @param $num Key
      * @return mixed
      */
     function func16_4($twoAry, $num){
