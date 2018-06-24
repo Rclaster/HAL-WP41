@@ -41,7 +41,7 @@ print_r($twoAry);
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="css/06_14_fileupload.css" rel="stylesheet">
+    <link href="../css/06_14_fileupload.css" rel="stylesheet">
     <title> テスト</title>
 </head>
 <body>

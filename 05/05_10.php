@@ -10,7 +10,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="WP41/css/sample.css" rel="stylesheet">
+    <link href="../css/sample.css" rel="stylesheet">
 </head>
 <body>
 

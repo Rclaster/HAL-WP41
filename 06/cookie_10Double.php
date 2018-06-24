@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="css/05_10_kadai2.css" rel="stylesheet">
+    <link href="../css/05_10_kadai2.css" rel="stylesheet">
 </head>
 <title>10倍(cookie)</title>
 <body>

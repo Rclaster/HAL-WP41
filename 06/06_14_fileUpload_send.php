@@ -17,7 +17,7 @@
             $error_file = 'ファイルの形式はjpegかpngでお願い';
         }
         if($error_file == ''){
-            require_once ('06_14_fileUpload_receive.php');
+            require_once('06_14_fileUpload_receive.php');
             exit();
         }
     }
@@ -27,7 +27,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="css/06_14_fileupload.css" rel="stylesheet">
+    <link href="../css/06_14_fileupload.css" rel="stylesheet">
     <title> アップロード</title>
 </head>
 <body>

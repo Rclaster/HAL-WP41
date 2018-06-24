@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="css/05_24_kadai3.css" rel="stylesheet">
+    <link href="../css/05_24_kadai3.css" rel="stylesheet">
     <title>session練習問題(start)</title>
 </head>
 <body>

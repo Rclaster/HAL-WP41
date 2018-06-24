@@ -50,7 +50,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="css/05_24_kadai3.css" rel="stylesheet">
+    <link href="../css/05_24_kadai3.css" rel="stylesheet">
     <title>CSV読み書き 6/7</title>
 </head>
 <body>

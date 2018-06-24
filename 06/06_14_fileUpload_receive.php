@@ -29,7 +29,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link href="css/06_14_fileupload.css" rel="stylesheet">
+    <link href="../css/06_14_fileupload.css" rel="stylesheet">
     <title> アップロード</title>
 </head>
 <body>
