@@ -5,12 +5,12 @@
     session_start();
 
     //　登録時のIDを取得
-    $fp = @fopen('csv/05_24_kadai3.csv', 'r');  //　ファイルの読み込み ファイルポインタの取得
+    $fp = @fopen('../csv/05_24_kadai3.csv', 'r');  //　ファイルの読み込み ファイルポインタの取得
     if(!$fp){
         echo '読み込みエラーです';
         exit;
     }
-    else if(!sizeof(file('csv/05_24_kadai3.csv'))){    //　初データ登録 0件のためidを+1
+    else if(!sizeof(file('../csv/05_24_kadai3.csv'))){    //　初データ登録 0件のためidを+1
         $id++;
     }
     else{                                                       //　二度目以降の登録 件数があるためidの最大値を+1
@@ -21,7 +21,7 @@
     }
 
     //　入力された情報をCSVに登録
-    $fp = @fopen('csv/05_24_kadai3.csv', 'a');  //　ファイルの書き込み idの最大値+1、名前、tel、メールを書込
+    $fp = @fopen('../csv/05_24_kadai3.csv', 'a');  //　ファイルの書き込み idの最大値+1、名前、tel、メールを書込
     if(!$fp){
         echo '書き込みエラーです';
         exit;
@@ -40,7 +40,7 @@
     session_destroy();
 
     //　一覧表示をするためのデータを取得する
-    $fp = @fopen('csv/05_24_kadai3.csv', 'r');  //　ファイルの読み込み 最新の登録データの取得
+    $fp = @fopen('../csv/05_24_kadai3.csv', 'r');  //　ファイルの読み込み 最新の登録データの取得
     if(!$fp){
         echo '読み込みエラーです';
         exit;
