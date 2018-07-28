@@ -13,6 +13,7 @@
         if(!isset($_FILES['up_file']['name']) || $_FILES['up_file']['name'] === ''){
             $error_file = 'ファイルが未入力です';
         }
+        //　.csv　＆　MINE check
         else if(!(explode('.',$_FILES['up_file']['name'])[1] == 'csv') && !($_FILES['up_file']['type'] == 'text/csv')){
             $error_file = 'ファイル形式はcsvで';
         }
@@ -21,25 +22,4 @@
             exit();
         }
     }
-?>
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <link href="../css/06_14_fileupload.css" rel="stylesheet">
-    <title> CSVアップロード</title>
-</head>
-<body>
-
-<h1>CSVアップロード</h1>
-
-<form method="post" action="06_28_csvUpload_send.php" enctype="multipart/form-data">
-    <input type="file" name="up_file">
-    <label><?php echo $error_file; ?></label>
-    <br>
-    <br>
-    <input type="submit" name="btn_submit" value="アップロード">
-</form>
-
-</body>
-</html>
+    require_once('./tpl/06_28_csvUpload_send.php');

@@ -1,0 +1,159 @@
+body{
+    background-color: #43A047;
+}
+.form-style-9{
+    max-width: 75%;
+    background: #FAFAFA;
+    padding: 30px;
+    margin: 50px auto;
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    border: 6px solid #305A72;
+}
+.form-style-9 ul{
+    padding:0;
+    margin:0;
+    list-style:none;
+}
+.form-style-9 ul li{
+    display: block;
+    margin-bottom: 10px;
+    min-height: 35px;
+}
+.form-style-9 ul li  .field-style{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding: 8px;
+    outline: none;
+    border: 1px solid #B0CFE0;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+
+}.form-style-9 ul li  .field-style:focus{
+     box-shadow: 0 0 5px #B0CFE0;
+     border:1px solid #B0CFE0;
+ }
+.form-style-9 ul li .field-split{
+    width: 49%;
+}
+.form-style-9 ul li .field-full{
+    width: 100%;
+}
+.form-style-9 ul li input.align-left{
+    float:left;
+}
+.form-style-9 ul li input.align-right{
+    float:right;
+}
+.form-style-9 ul li textarea{
+    width: 80%;
+    height: 100px;
+}
+.form-style-9 ul li input[type="button"],
+.form-style-9 ul li input[type="submit"] {
+    -moz-box-shadow: inset 0px 1px 0px 0px #3985B1;
+    -webkit-box-shadow: inset 0px 1px 0px 0px #3985B1;
+    box-shadow: inset 0px 1px 0px 0px #3985B1;
+    background-color: #216288;
+    border: 1px solid #17445E;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    padding: 8px 18px;
+    text-decoration: none;
+    font: 12px Arial, Helvetica, sans-serif;
+}
+.form-style-9 ul li input[type="button"]:hover,
+.form-style-9 ul li input[type="submit"]:hover {
+    background: linear-gradient(to bottom, #2D77A2 5%, #337DA8 100%);
+    background-color: #28739E;
+}
+
+ /*ベースのスタイル設定*/
+ .l-card {
+     width: 75%;
+     overflow: hidden;
+     padding: 0;
+     margin: auto;
+     border: 1px solid #ddd;
+     border-radius: 4px;
+     background: #fff;
+     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1), 0 8px 20px rgba(0, 0, 0, 0.1);
+ }
+ .text-content {
+     padding: 16px;
+ }
+ .text-content .title {
+     margin: 0 0 12px 0;
+     font-size: 20px;
+     color: #4cc48e;
+ }
+ .text-content .caption {
+     margin: 0 0 12px 0;
+     font-size: 14px;
+     color: #555;
+ }
+ .content-meta {
+     overflow: hidden;
+     width: 100%;
+     font-size: 12px;
+ }
+ .date {
+     float: left;
+     color: #aaa;
+ }
+ .like {
+     display: flex;
+     float: right;
+     color: #4cc48e;
+ }
+ .like .material-icons {
+     vertical-align: middle;
+     font-size: 16px;
+ }
+
+ img {
+     max-width: 100%;
+     max-height: 100%;
+     width: auto;
+     height: auto;
+     vertical-align: middle;
+ }
+ .img-container--table-cell {
+     background-color: #aaaaaa;
+     position: relative;
+     width: 200px;
+     height: 200px;
+     display: table-cell;
+     vertical-align: middle;
+     text-align: center;
+ }
+
+ #search_button{
+     background-color: #17a2b8;
+     color: #fff;
+ }
+
+ .genre {
+     width: 60%;
+     margin-right: auto;
+     margin-left : auto;
+ }
+
+#select-genre-c{
+    width: 150px;
+    display: inline-block;
+}
+
+#re-color {
+    background-color: #216288;
+    color: #fff;
+}
+
+#dele-color{
+    background-color: red;
+    color: #fff;
+}

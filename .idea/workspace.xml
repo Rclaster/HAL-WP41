@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf934d6-739e-45f3-8113-9122427c82d8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/05/05_24_kadai3_2.php" beforeDir="false" afterPath="$PROJECT_DIR$/05/05_24_kadai3_2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/04_26.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/04_26_2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/sample.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/sample2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/06_28_csvUpload_receive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06/06_28_csvUpload_send.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/csv/05_24_kadai3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/csv/05_24_kadai3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/20180618220820jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/20180618221042jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/20180618221244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/daikiti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/kyo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/suekiti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/syoukiti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tyukiti.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,35 +28,49 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="06_28_csvUpload_receive.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/06/06_28_csvUpload_receive.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="402">
+              <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05_24_kadai3.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/csv/05_24_kadai3.csv">
+      <file leaf-file-name="func.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/func.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="300">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05_24_kadai3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05/05_24_kadai3.php">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htdocs/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="75">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/tpl/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$destination</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,6 +85,9 @@
         <option value="$PROJECT_DIR$/05/05_24_kadai3_2.php" />
         <option value="$PROJECT_DIR$/csv/05_24_kadai3.csv" />
         <option value="$PROJECT_DIR$/06/06_28_csvUpload_receive.php" />
+        <option value="$PROJECT_DIR$/htdocs/config.php" />
+        <option value="$PROJECT_DIR$/htdocs/csv/board.csv" />
+        <option value="$PROJECT_DIR$/htdocs/IH14A999/16/index.php" />
       </list>
     </option>
   </component>
@@ -69,11 +101,9 @@
     <packageJsonPaths />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.0" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="699" />
-    <option name="y" value="22" />
-    <option name="width" value="698" />
-    <option name="height" value="878" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -83,7 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -94,22 +123,56 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="WP41" type="cbb8eebc:String" user="WP41" />
-              <item name="05" type="cbb8eebc:String" user="05" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="WP41" type="cbb8eebc:String" user="WP41" />
-              <item name="06" type="cbb8eebc:String" user="06" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WP41" type="cbb8eebc:String" user="WP41" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
               <item name="csv" type="cbb8eebc:String" user="csv" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WP41" type="cbb8eebc:String" user="WP41" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WP41" type="cbb8eebc:String" user="WP41" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
+              <item name="16" type="cbb8eebc:String" user="16" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WP41" type="cbb8eebc:String" user="WP41" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
+              <item name="16" type="cbb8eebc:String" user="16" />
+              <item name="css" type="cbb8eebc:String" user="css" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WP41" type="cbb8eebc:String" user="WP41" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
+              <item name="16" type="cbb8eebc:String" user="16" />
+              <item name="js" type="cbb8eebc:String" user="js" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WP41" type="cbb8eebc:String" user="WP41" />
+              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
+              <item name="16" type="cbb8eebc:String" user="16" />
+              <item name="tpl" type="cbb8eebc:String" user="tpl" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,8 +184,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/05" />
       <recent name="$PROJECT_DIR$/04" />
+      <recent name="$PROJECT_DIR$/05" />
       <recent name="$PROJECT_DIR$/06" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -150,45 +213,161 @@
       <option name="presentableId" value="Default" />
       <updated>1529821491514</updated>
       <workItem from="1529821493253" duration="10965000" />
+      <workItem from="1532591469218" duration="153000" />
+      <workItem from="1532591784537" duration="12000" />
+      <workItem from="1532591809741" duration="1080000" />
+      <workItem from="1532792453613" duration="438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10965000" />
+    <option name="totallyTimeSpent" value="12648000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="699" y="22" width="698" height="878" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="PHP-CGI Server" visible="true" weight="0.3290653" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32848486" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3290653" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20121951" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32848486" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/tpl/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/06_28_csvUpload_receive.php" />
+    <entry file="file://$PROJECT_DIR$/csv/05_24_kadai3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/05_24_kadai3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/04_26.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/06_28_csvUpload_receive.php" />
+    <entry file="file://$PROJECT_DIR$/csv/05_24_kadai3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/05_24_kadai3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/04_26.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/06_28_csvUpload_receive.php" />
+    <entry file="file://$PROJECT_DIR$/csv/05_24_kadai3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/05_24_kadai3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05/05_10.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -231,13 +410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/06_28_csvUpload_send.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/06/06_28_csvUpload_send.php" />
     <entry file="file://$PROJECT_DIR$/06/06_14_fileUpload_send.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -254,22 +427,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05/05_24_kadai3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/csv/05_24_kadai3.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/06_28_csvUpload_receive.php">
+    <entry file="file://$PROJECT_DIR$/06/06_28_csvUpload_receive.php" />
+    <entry file="file://$PROJECT_DIR$/04/04_26.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="360">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/tpl/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
         </state>
       </provider>
     </entry>
