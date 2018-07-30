@@ -15,7 +15,7 @@
 <body style="background-color: #abdde5;">
 
 <!--入力フォーム-->
-<form class="form-style-9" method="post" action="./index.php" enctype="multipart/form-data">
+<form class="form-style-9" method="post" action="index.php" enctype="multipart/form-data">
     <ul>
         <div class="form-group row">
             <div class="col-sm-6">
@@ -51,7 +51,7 @@
 
 <!--ジャンル-->
 <div class="genre form-style-9">
-    <form method="post" action="./index.php">
+    <form method="post" action="index.php">
         <label>ジャンル選択　</label>
         <select name="selected_genre" id="select-genre-c" class="form-control">
             <option value="映画" <?= $select== '映画' ? 'selected' : "" ?>>映画</option>
@@ -74,7 +74,7 @@
                 <span class="date"><?php echo $data[5] ?></span>
                 <span class="like">
                     <i class="material-icons"></i>
-                    <form method="post" action="./index.php">
+                    <form method="post" action="index.php">
                         <input type="hidden" name="delete_id" value="<?php echo $data[0] ?>">
                         <input id="dele-color" class="btn btn-light" type="submit" name="delete_submit" value="削除" />
                     </form>

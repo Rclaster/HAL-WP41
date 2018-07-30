@@ -3,22 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="caf934d6-739e-45f3-8113-9122427c82d8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/04_26.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/04_26_2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/sample.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/sample2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/06_28_csvUpload_receive.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/06_28_csvUpload_send.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv/05_24_kadai3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/csv/05_24_kadai3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20180618220820jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20180618221042jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20180618221244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/daikiti.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/kyo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/suekiti.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/syoukiti.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tyukiti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/IH14A999/16/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/IH14A999/16/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/IH14A999/16/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/IH14A999/16/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/IH14A999/16/func.php" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/IH14A999/16/func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/IH14A999/16/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/IH14A999/16/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/IH14A999/16/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/IH14A999/16/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/IH14A999/16/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/IH14A999/16/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/IH14A999/16/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/IH14A999/16/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/IH14A999/16/tpl/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/IH14A999/16/tpl/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/csv/board.csv" beforeDir="false" afterPath="$PROJECT_DIR$/07/htdocs/csv/board.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,37 +23,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/index.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
+            <state relative-caret-position="2414">
               <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="func.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/func.php">
+        <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/func.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="-12">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs/config.php">
+        <entry file="file://$PROJECT_DIR$/07/htdocs/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="85">
               <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/tpl/index.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/tpl/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="136">
               <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
@@ -88,6 +82,7 @@
         <option value="$PROJECT_DIR$/htdocs/config.php" />
         <option value="$PROJECT_DIR$/htdocs/csv/board.csv" />
         <option value="$PROJECT_DIR$/htdocs/IH14A999/16/index.php" />
+        <option value="$PROJECT_DIR$/07/htdocs/IH14A999/16/tpl/index.php" />
       </list>
     </option>
   </component>
@@ -101,9 +96,11 @@
     <packageJsonPaths />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.0" />
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="738" />
+    <option name="y" value="439" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -113,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -123,56 +121,18 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="WP41" type="cbb8eebc:String" user="WP41" />
-              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
+              <item name="07" type="cbb8eebc:String" user="07" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="WP41" type="cbb8eebc:String" user="WP41" />
+              <item name="07" type="cbb8eebc:String" user="07" />
               <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
-              <item name="csv" type="cbb8eebc:String" user="csv" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WP41" type="cbb8eebc:String" user="WP41" />
-              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
-              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WP41" type="cbb8eebc:String" user="WP41" />
-              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
-              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
-              <item name="16" type="cbb8eebc:String" user="16" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WP41" type="cbb8eebc:String" user="WP41" />
-              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
-              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
-              <item name="16" type="cbb8eebc:String" user="16" />
-              <item name="css" type="cbb8eebc:String" user="css" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WP41" type="cbb8eebc:String" user="WP41" />
-              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
-              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
-              <item name="16" type="cbb8eebc:String" user="16" />
-              <item name="js" type="cbb8eebc:String" user="js" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WP41" type="cbb8eebc:String" user="WP41" />
-              <item name="htdocs" type="cbb8eebc:String" user="htdocs" />
-              <item name="IH14A999" type="cbb8eebc:String" user="IH14A999" />
-              <item name="16" type="cbb8eebc:String" user="16" />
-              <item name="tpl" type="cbb8eebc:String" user="tpl" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,6 +144,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hirok\PhpstormProjects\WP41\07" />
       <recent name="$PROJECT_DIR$/04" />
       <recent name="$PROJECT_DIR$/05" />
       <recent name="$PROJECT_DIR$/06" />
@@ -217,35 +178,46 @@
       <workItem from="1532591784537" duration="12000" />
       <workItem from="1532591809741" duration="1080000" />
       <workItem from="1532792453613" duration="438000" />
+      <workItem from="1532954959687" duration="168000" />
+      <workItem from="1532955138866" duration="108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12648000" />
+    <option name="totallyTimeSpent" value="12924000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32848486" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297414" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.2984914" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32848486" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297414" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20842217" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32848486" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,28 +253,84 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/index.php">
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/htdocs/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/tpl/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/htdocs/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/tpl/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2130">
           <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/func.php">
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/func.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/config.php">
+    <entry file="file://$PROJECT_DIR$/07/htdocs/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/tpl/index.php">
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/tpl/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
@@ -447,31 +475,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/func.php">
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="2414">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/config.php">
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/func.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-12">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/htdocs/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
           <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/tpl/index.php">
+    <entry file="file://$PROJECT_DIR$/07/htdocs/IH14A999/16/tpl/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="136">
           <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/IH14A999/16/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
         </state>
       </provider>
     </entry>
